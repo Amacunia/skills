@@ -30,7 +30,7 @@ npx skills add Amacunia/skills
 
 - `us-disaster-deadlines`: FEMA individual assistance deadline and IRS tax postponement by county (disasters.amacunia.fr).
 - `us-medicare-revalidation`: Medicare enrollment revalidation due date by NPI (revalidation.amacunia.fr).
-- `french-property-deadlines`: CatNat home-insurance claim window by commune, and condominium property manager mandate end (catnat.amacunia.fr, syndic.amacunia.fr).
+- `french-property-deadlines`: CatNat home-insurance claim window by commune, and condominium syndic mandate end (catnat.amacunia.fr, syndic.amacunia.fr).
 - `french-pesticide-authorization`: whether a plant protection product can still be sold or used, and until when (phyto.amacunia.fr).
 
 ## Payment

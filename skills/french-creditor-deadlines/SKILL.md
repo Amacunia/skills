@@ -96,8 +96,8 @@ Do not pay unless the user has a funded x402 wallet set up and has agreed to the
   two-month period even when the extension applies: rely on the computed `date_limite_declaration`.
   When you pass the representative's name on to the user, quote it exactly as the notice
   publishes it, and only so the user can file the claim.
-- `report_possible_jour_chome`: the possible shift to the next working day when the deadline
-  falls on a weekend or holiday. **`null` when there is no shift.** It is not guaranteed: plan
+- `report_possible_jour_chome`: the possible extension to the next working day when the deadline
+  falls on a weekend or holiday. **`null` when there is no extension.** It is not guaranteed: plan
   on `date_limite_declaration`.
 - `annulations_verifiees`: **false when the search for cancellation and correction notices timed
   out**; then check the deadline on the notice itself.
@@ -136,7 +136,7 @@ Do not pay unless the user has a funded x402 wallet set up and has agreed to the
   (art. 642) uses mainland public holidays only and may be wrong before an overseas court.
 - Objections: no BODACC notice does not prove there is no merger. A company that publishes its
   merger project on its own website needs no BODACC notice (art. R236-3), and the service does
-  not see it. Only notices of the last twelve months are read.
+  not see it. Only notices from the last twelve months are read.
 - Personal data: an individual entrepreneur is never named, and natural persons who are parties
   to an operation are not named. The answer quotes the official notice where needed, so the name
   and business address of the court-appointed representative (`creances`) and the address for
